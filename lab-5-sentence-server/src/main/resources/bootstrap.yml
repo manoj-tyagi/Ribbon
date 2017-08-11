@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: lab-5-sentence-server
+  cloud:
+    config:
+      uri: http://localhost:8001
